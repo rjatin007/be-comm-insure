@@ -1,0 +1,12 @@
+{
+    "users": [],
+    "scoreCards": [
+      { "parameter": "Safe Driving", "score": 88 },
+      { "parameter": "Eco Score", "score": 76 }
+    ],
+    "communities": [
+      { "community": "GreenWheelers", "score": 725 },
+      { "community": "EcoDrivers", "score": 812 }
+    ]
+  }
+  
